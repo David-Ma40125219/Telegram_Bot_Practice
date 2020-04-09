@@ -11,3 +11,6 @@ Try merge _Github_
 [Add new conflict]Try merge _Local_ again
 Try merge _Github_ again
 New branch
+Try merge _Local_ again
+New branch
+
